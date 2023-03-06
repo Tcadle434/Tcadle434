@@ -12,30 +12,10 @@
 
 <p>...and more 😄</p>
 
-<h3 align="left">Open Source Projects I have contributed to:</h3>
-<p align="left">
-  <ul>
-    <li>https://github.com/0xPolygon/polygon-edge</li>
-  </ul>
-</p>
-
-<h3 align="left">Web3 Hackathon Rewards:</h3>
-<p align="left">
-  <ul>
-    <li>
-      <a href="https://ethglobal.com/showcase/stakeoverflow-c1ukj">StakeOverflow</a> at ETHAmsterdam 2022
-    </li>
-     <li>
-      <a href="https://ethglobal.com/showcase/complisend-3j0jx">CompliSend</a> at ETHSF 2022
-    </li>
-    <li>
-      <a href="https://github.com/cupcap-app/cupcap/">CupCap</a> at Tokyo Web3 Hackathon 2022
-    </li>
-  </ul>
-</p>
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kourin_crypto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kourin_crypto" height="30" width="40" /></a>
+<a href="https://twitter.com/blockChief" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thomas_twitter" height="30" width="40" /></a>
 </p>

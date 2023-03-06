@@ -9,6 +9,8 @@
 <ul>
 <li><p><a href="https://www.raffi3.app/" target="_blank">Polygon NFT Raffle Platform</a> - Built at the ETH Denver 2023 hackathon, Raffi3 is a platform for users to raffle off NFTs on Polyogn. I built the front and back end<p></li>
 </ul
+  
+<br>
 <br>
 
 <h3 align="left">Languages and Technologies:</h3>
@@ -18,7 +20,6 @@
 <p>...and more 😄</p>
 
 <br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

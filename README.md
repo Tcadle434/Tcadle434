@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Full Stack Web Developer | Startup Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Startup Enthusiast | Blockchain enjoyer</h3>
 
-<p>Blockchain and Web Developer with 2+ years work experience and 7+ years gradual experience of computer engineering. Contributing OSS project of Blockchain Layer 2. Practical skills and knowledge of Solidity and Cosmos SDK. Advanced skills of web development in both Frontend and Backend, especially great skills of React.js, Node.js, and Go.  With strong responsibility and good communication skills in Japanese and English. Strong interests in Blockchain and Finance field</p>
+<p>Web and Blockchain Developer who founded a Web3 startup 2 years ago. Prior to that, 4 years software engineering at Capital One after graduating with a Computer Engineering degree from Penn State University. Building things that are blockchain adjacent. Advanced web development skills across the front and back end, specializing in NextJS, Typescript, TailwindCSS, tRPC and Prisma. Practical skills and knowledge of Solidity and Smart Contract development. Passionate about writing code and building businesses.</p>
 
 <br>
 

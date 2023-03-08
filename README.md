@@ -8,6 +8,7 @@
 <h3 align="left">Recent Projects:</h3>
 <ul>
 <li><p><a href="https://www.raffi3.app/" target="_blank">Polygon NFT Raffle Platform</a> - Built at the ETH Denver 2023 hackathon, Raffi3 is a platform for users to raffle off NFTs on Polygon. I wrote the front and back end<p></li>
+<li><p><a href="https://www.itsthomas.dev/" target="_blank">Personal Portfolio Site</a> - New website for keeping track of what i've worked on / am working on<p></li>
 </ul
   
 <br>

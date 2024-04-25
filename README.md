@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Full Stack Web Developer | Startup Enthusiast | Blockchain enjoyer</h3>
 
-<p>Web and Blockchain Developer who founded a Web3 startup 2 years ago. Prior to that, 4 years software engineering at Capital One after graduating with a Computer Engineering degree from Penn State University. Building things that are blockchain adjacent. Advanced web development skills across the front and back end, specializing in NextJS, Typescript, TailwindCSS, tRPC and Prisma. Practical skills and knowledge of Solidity and Smart Contract development. Passionate about writing code and building businesses.</p>
+<p>Building Blockchain things at Magic Eden</p>
 
 <br>
 
